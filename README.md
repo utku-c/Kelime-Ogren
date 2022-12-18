@@ -1,8 +1,8 @@
-# sqflite_learn
+# Kelime Öğren
 
 A new Flutter project.
 
-## Getting Started
+## Başlayalım
 
 This project is a starting point for a Flutter application.
 
